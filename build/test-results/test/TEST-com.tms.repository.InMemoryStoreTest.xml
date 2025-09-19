@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tms.repository.InMemoryStoreTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-08-30T05:40:43" hostname="MBP-F3V4X6H9C6" time="0.023">
+  <properties/>
+  <testcase name="testCommentStoreOperations()" classname="com.tms.repository.InMemoryStoreTest" time="0.015"/>
+  <testcase name="testSprintStoreOperations()" classname="com.tms.repository.InMemoryStoreTest" time="0.001"/>
+  <testcase name="testSubTaskStoreOperations()" classname="com.tms.repository.InMemoryStoreTest" time="0.001"/>
+  <testcase name="testTicketStoreOperations()" classname="com.tms.repository.InMemoryStoreTest" time="0.001"/>
+  <testcase name="testSingleResponsibilityPrinciple()" classname="com.tms.repository.InMemoryStoreTest" time="0.0"/>
+  <testcase name="testStoreAccessors()" classname="com.tms.repository.InMemoryStoreTest" time="0.0"/>
+  <testcase name="testClearAll()" classname="com.tms.repository.InMemoryStoreTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
